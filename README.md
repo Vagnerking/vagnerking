@@ -15,7 +15,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
