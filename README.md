@@ -1,4 +1,4 @@
-### Olá 😁, eu sou o Vagner
+### Vagner Araújo 👑
 
 <div align="left">
   <img alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
